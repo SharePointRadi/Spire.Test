@@ -4,3 +4,6 @@ This is a sample project requested by the Spire support team, which cannot repro
 The Spire.Office library is used with a standard Excel file downloaded from the internet. It is throwing an exception and the support team have asked me to create a repro, which many would consider me doing their work, so I am letting the public decide.
 
 This proves that the library cannot convert the Excel document with version 8.9.3 in trial mode.
+
+Screenshot:
+![image](https://github.com/SharePointRadi/Spire.Test/assets/5693618/2ac25727-e3de-4812-90f8-2a0a8fd1d574)
